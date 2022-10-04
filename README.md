@@ -3,6 +3,7 @@
 
 Check out my latest projects here: 
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech) At first I designed this project in Figma for a company that needed better UX for their application process for potential contractors. Then I decided to develop it myself in **React** with **Typescript** using tools such as **Material UI** and **Formik**. I schedule and write down tasks for particular features in **Jira** and use **Github Actions** to check code quality via **Eslint** and **Prettier**. The application comunicates with backend(created by other developer) written in FastAPI and uses Postgres database.</br> 
+![architech lp new](https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png)
 
 
 2. [Daft Academy Certificate project](https://github.com/anitavictoria/daft) - During this course I gained maximum points for creating this app because of it's functonality and optimal code solutions. I've learned best practices from a senior frontend developer and recieved a certificate stating of my skills earned in these 5 weeks. </br> <img width="350" alt="daftrick" src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png">
