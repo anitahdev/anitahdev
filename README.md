@@ -2,7 +2,7 @@
 <h3 align="center">I am a frontend developer with great interest for web design</h3>
 
 Check out my latest projects here: 
-1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech) At first I designed this project in Figma for a company that needed better UX for their application process for potential contractors. Then I decided to develop it myself in **React** with **Typescript** using tools such as **Material UI** and **Formik**. I schedule and write down tasks for particular features in **Jira** and use **Github Actions** to check code quality via **Eslint** and **Prettier**. The application comunicates with backend(created by other developer) written in FastAPI and uses Postgres database. </br><img width = "400" src="https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png"> <img width = "400" src="https://user-images.githubusercontent.com/95635795/193865473-bd3074fd-9571-4d73-bb0c-074670bfa687.png">
+1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech) At first I designed this project in Figma for a company that needed better UX for their application process for potential contractors. Then I decided to develop it myself in **React** with **Typescript** using tools such as **Material UI** and **Formik**. I schedule and write down tasks for particular features in **Jira** and use **Github Actions** to check code quality via **Eslint** and **Prettier**. The application comunicates with backend(created by other developer) written in FastAPI and uses Postgres database. For testing my application I wrote end-to-end tests in **Cypress** to check for any glitches and make sure the app runs smoothly. </br><img width = "400" src="https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png"> <img width = "400" src="https://user-images.githubusercontent.com/95635795/193865473-bd3074fd-9571-4d73-bb0c-074670bfa687.png">
 
 
 
@@ -10,7 +10,7 @@ Check out my latest projects here:
 <img width = "400" src="https://user-images.githubusercontent.com/95635795/184085004-26029e29-8502-40d8-b2c9-13690a9fa6f7.jpg"> 
 
 
-3. [GraphQL Blog](https://github.com/anitavictoria/blog) This is a blog project created with content housed in GraphCMS (a headless CMS) and delivered via GraphQL API for seamless display on a blog page. For this purpose I created a custom React Hook. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order. </br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
+3. [GraphQL Blog](https://github.com/anitavictoria/blog) This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order.</br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
 
 
 <h3 align="left">I'm currently learning:</h3>
