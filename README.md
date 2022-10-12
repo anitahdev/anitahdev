@@ -40,5 +40,5 @@ I designed this project by myself in **Figma** while proposing an idea to a comp
 <p>
 <a href="https://linkedin.com/in/anita horoszko" target="blank">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitavictoria&show_icons=true&locale=en&layout=compact" alt="anitavictoria" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitahdev&show_icons=true&locale=en&layout=compact" alt="anitahdev" /></p>
 
