@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anita Horoszko and welcome to my github page!</h1>
-<h3 align="center">I am a frontend developer with great interest for web design</h3>
+<h3 align="center">I am a frontend developer with great interest for web design. :woman_technologist:</h3>
 
 Check out my latest projects here: 
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br> Link to deployed project: https://architech-362918.lm.r.appspot.com/ </br>
