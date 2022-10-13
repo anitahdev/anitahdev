@@ -7,11 +7,13 @@ I designed this project by myself in **Figma** while proposing an idea to a comp
 
 
 
-2. [Daft Academy Certificate project](https://github.com/anitavictoria/daft) - During this course I gained maximum points for creating this app because of it's functonality and optimal code solutions. I've learned best practices from a senior frontend developer and recieved a certificate stating of my skills earned in these 5 weeks. </br> <img width="350" alt="daftrick" src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png">
+2. [Daft Academy Certificate project](https://github.com/anitavictoria/daft)</br>
+During this course I gained maximum points for creating this app because of it's functonality and optimal code solutions. I've learned best practices from a senior frontend developer and recieved a certificate stating of my skills earned in these 5 weeks. </br> <img width="350" alt="daftrick" src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png">
 <img width = "400" src="https://user-images.githubusercontent.com/95635795/184085004-26029e29-8502-40d8-b2c9-13690a9fa6f7.jpg"> 
 
 
-3. [GraphQL Blog](https://github.com/anitavictoria/blog) This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order.</br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
+3. [GraphQL Blog](https://github.com/anitavictoria/blog)</br>
+This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order. I deployed the app via **Netlify** so it can be viewed under this link: https://graphqlblog1.netlify.app/ </br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
 
 
 <h3 align="left">I'm currently learning:</h3>
