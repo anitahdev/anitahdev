@@ -1,5 +1,52 @@
-<h1 align="center">Hi, I'm Anita Horoszko and welcome to my github page!</h1>
-<h3 align="center">I am a frontend developer with great interest for web design. :woman_technologist:</h3>
+<h1>
+    <img src="./res/Hi.gif" height="32" /> 
+    Hi there, I'm Anita and welcome to my github page!
+</h1>
+    <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet">
+    
+- I'm a **Fullstack Developer** with web design background 
+- :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
+- 🖥️ Coding for 2+ years, 1 year of proffesional experience :handshake:
+- :cloud: Great interest for the Cloud, actively studying for my first AWS certificate :rocket: </br>
+
+💬 Ask me about **NextJS, AWS, NodeJS or my <ins>latest project</ins>** </br>
+:envelope_with_arrow:	How to reach me **anitahoroszko@gmail.com** </br>
+
+## 💻 Tech stack
+
+- 🔥 Actively developing in <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js" height="20px"> & <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js" alt="Next.js" height="20px"> & <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20px"> 
+- 🧠 Learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ASP.net" height="20px"> to expand my backend toolset
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </p>
+
+
+
+## 🤝 Connect with me
+
+<a href="mailto:hohshenyien@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="48px" hspace="6"></a>
+<a href="https://www.linkedin.com/in/shen-yien" target="_blank"><img src="./icons/linkedin.png" alt="LinkedIn" width="48px" hspace="6"></a>
+<a href="https://blogs.shenyien.cyou" target="_blank"><img src="./icons/hashnode.png" alt="Facebook" width="48px" hspace="6"></a>
+<a href="https://www.facebook.com/wenwen.hoh/" target="_blank"><img src="./icons/facebook.png" alt="Email" width="48px" hspace="6"></a>
+<a href="https://discordapp.com/users/Shen🥚#5894" target="_blank"><img src="./icons/discord.png" alt="Discord" width="48px" hspace="6"></a>
+<a href="https://leetcode.com/ShenYien/" target="_blank"><img src="./icons/leetcode.png" alt="Leetcode" width="48px" hspace="6"></a>
+
+<img src="./res/line-neon.gif" alt="Divider" width="100%">
+
+<details>
+    <summary><h2>📊 Random GitHub Stats</h2></summary>
+    <img src="./res/laptop-animation.gif" alt="Random background gif" width="50%" align="right">
+    <img src="./res/github-metrics.svg" alt="Github Metrics" width="45%">
+    <img src="./res/habits-metrics.svg" alt="Github Metrics" width="45%">
+    <img src="./res/language-metrics.svg" alt="Language Metrics" width="45%">
+    <br><br><br><br>
+    <img src="./res/mario.gif" alt="Random Mario gif" width="55%" align="left">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HohShenYien?cardType=level&theme=dracula&hide_border=true" alt="GitHub User Stats" width="40%" align="right">
+    <img src="https://streak-stats.demolab.com?user=HohShenYien&theme=dracula&hide_border=true" alt="GitHub Trophies" width="40%" align="right">
+    <p align="center">
+    <p></p>
+        <img src="https://github-profile-trophy.vercel.app/?username=HohShenYien&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%">
+    </p>
+    
+</details>
 
 Check out my latest projects here: 
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br>
@@ -45,4 +92,6 @@ This is a blog project created with content housed in **GraphCMS** (a headless C
 <a href="https://linkedin.com/in/anita horoszko" target="blank">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitahdev&show_icons=true&locale=en&layout=compact" alt="anitahdev" /></p>
+
+
 
