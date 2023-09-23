@@ -31,23 +31,6 @@
 
 <img src="./res/line-neon.gif" alt="Divider" width="100%">
 
-<details>
-    <summary><h2>📊 Random GitHub Stats</h2></summary>
-    <img src="./res/laptop-animation.gif" alt="Random background gif" width="50%" align="right">
-    <img src="./res/github-metrics.svg" alt="Github Metrics" width="45%">
-    <img src="./res/habits-metrics.svg" alt="Github Metrics" width="45%">
-    <img src="./res/language-metrics.svg" alt="Language Metrics" width="45%">
-    <br><br><br><br>
-    <img src="./res/mario.gif" alt="Random Mario gif" width="55%" align="left">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HohShenYien?cardType=level&theme=dracula&hide_border=true" alt="GitHub User Stats" width="40%" align="right">
-    <img src="https://streak-stats.demolab.com?user=HohShenYien&theme=dracula&hide_border=true" alt="GitHub Trophies" width="40%" align="right">
-    <p align="center">
-    <p></p>
-        <img src="https://github-profile-trophy.vercel.app/?username=HohShenYien&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%">
-    </p>
-    
-</details>
-
 Check out my latest projects here: 
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br>
 Link to the deployed app: https://architech-362918.lm.r.appspot.com/ </br>
