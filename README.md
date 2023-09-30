@@ -37,10 +37,12 @@
 ## 💻 Tech stack
 
 - 🔥 Actively developing in <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js" height="20px"> & <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js" alt="Next.js" height="20px"> & <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20px"> 
-- 🧠 Learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ASP.net" height="20px"> to expand my backend toolset
+- 🧠 Learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ASP.net" height="20px"> to expand my backend toolset :wrench:	
 - :cloud: Expanding my Cloud knowledge <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" height="20px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20px">
-<img src="./res/line-neon.gif" alt="Divider" width="100%">
+<img src="./res/line-neon.gif" alt="Divider" width="100%"/>
+
 Check out my latest projects here: 
+
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br>
 Link to the deployed app: https://architech-362918.lm.r.appspot.com/ </br>
 Link to the project in Figma: https://www.figma.com/file/DMNwieT1WlqoLA79D4VU6u/Architech?node-id=0%3A1 </br>
@@ -52,8 +54,4 @@ During this course I gained maximum points for creating this app because of it's
 
 3. [GraphQL Blog](https://github.com/anitavictoria/blog)</br>
 This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order. I deployed the app via **Netlify** so it can be viewed under this link: https://graphqlblog1.netlify.app/ </br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
-
-
-
-
 
