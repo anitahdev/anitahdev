@@ -4,13 +4,35 @@
 </h1>
     <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet">
     
-- I'm a **Fullstack Developer** with web design background 
+- I'm a **Fullstack Developer** with web design background :woman_artist:
 - :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
 - 🖥️ Coding for 2+ years, 1 year of proffesional experience :handshake:
 - :cloud: Great interest for the Cloud, actively studying for my first AWS certificate :rocket: </br>
 
-💬 Ask me about **NextJS, AWS, NodeJS or my <ins>latest project</ins>** </br>
-:envelope_with_arrow:	How to reach me **anitahoroszko@gmail.com** </br>
+
+💬 Ask me about **NextJs, AWS, NodeJS**
+
+:brain: Technologies and libraries that I've worked with:
+
+- Nx
+- AWS
+- Google Cloud Platform
+- Redux Toolkit
+- NextJS
+- Express Js
+- Cypress
+- Ant Design
+- Material UI
+- Formik
+- RestApi
+- Jira, Azure DevOps, Github Actions, Git, Postman
+- GraphCMS (headless cms with GraphQL)
+- Figma, AdobeXD, Adobe: Illustrator, After Effects, Photoshop
+
+## 🤝 Connect with me
+
+<a href="mailtoanitahoroszko@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="48px" hspace="6"></a>
+<a href="https://www.linkedin.com/in/anita-horoszko-467366182/" target="_blank"><img src="./icons/linkedin.png" alt="LinkedIn" width="48px" hspace="6"></a
 
 ## 💻 Tech stack
 
@@ -19,11 +41,6 @@
 - :cloud: Expanding my Cloud knowledge <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" height="20px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20px">
 <h3>Other Technologies I'm experienced in</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  </p>
-
-## 🤝 Connect with me
-
-<a href="mailtoanitahoroszko@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="48px" hspace="6"></a>
-<a href="https://www.linkedin.com/in/anita-horoszko-467366182/" target="_blank"><img src="./icons/linkedin.png" alt="LinkedIn" width="48px" hspace="6"></a>
 
 <img src="./res/line-neon.gif" alt="Divider" width="100%">
 
@@ -41,29 +58,6 @@ During this course I gained maximum points for creating this app because of it's
 This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order. I deployed the app via **Netlify** so it can be viewed under this link: https://graphqlblog1.netlify.app/ </br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
 
 
-- 💬 Ask me about **React, ES6, Typescript and NodeJS**
-
- :brain: Technologies and libraries that I've worked with:
-
-- Nx
-- AWS
-- Google Cloud Platform
-- Redux Toolkit
-- NextJS
-- Express Js
-- Cypress
-- Ant Design
-- Material UI
-- Formik
-- RestApi
-- Jira, Azure DevOps, Github Actions, Git, Postman
-- GraphCMS (headless cms with GraphQL)
-- Figma, AdobeXD, Adobe: Illustrator, After Effects, Photoshop
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anita horoszko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anita horoszko" height="30" width="40" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitahdev&show_icons=true&locale=en&layout=compact" alt="anitahdev" /></p>
 
 
 
