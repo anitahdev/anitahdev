@@ -5,9 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet">
     
 - I'm a **Fullstack Developer** with a web design background :woman_artist:
-- :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
+- :cloud: AWS Certified Cloud Practitioner :rocket: </br>
 - 🖥️ Coding for 2+ years, 1 year of proffesional experience :handshake:
-- :cloud: Great interest for the Cloud, actively studying for my first AWS certificate :rocket: </br>
+- :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
+
 
 
 💬 Ask me about **NextJs, AWS, NodeJS**
