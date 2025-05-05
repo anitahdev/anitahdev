@@ -44,6 +44,13 @@
 
 Check out my latest projects here: 
 
+1. [Instagram Clone with Next.js] (https://github.com/anitahoroszkoorg/instagram-next-clone) </br>
+Designed and developed a feature-rich web application inspired by Instagram, building both the frontend and API from scratch. Utilized modern technologies including Next.js, TypeScript, Prisma, and AWS to ensure robust, scalable, and high-performance functionality. The frontend leverages Next.js for server-side rendering, ensuring optimal load times and SEO performance.
+Implemented a custom API with Prisma for efficient database management and seamless data operations, hosted on AWS to ensure reliability and scalability.
+Enhanced user experience with dynamic and engaging animations, developed using GSAP (GreenSock Animation Platform) to create smooth, high-performance transitions and interactions. The user interface is meticulously designed with Styled Components, ensuring maintainable, modular, and responsive styling across all devices. </br>
+![Screen Shot 2025-05-05 at 22 38 54 PM](https://github.com/user-attachments/assets/50f51475-d787-4a70-a672-6188091dc22a)
+
+**Previous Projects created pre-internship in 2022**
 1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br>
 Link to the deployed app: https://architech-362918.lm.r.appspot.com/ </br>
 Link to the project in Figma: https://www.figma.com/file/DMNwieT1WlqoLA79D4VU6u/Architech?node-id=0%3A1 </br>
