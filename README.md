@@ -4,7 +4,7 @@
 </h1>
     <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet">
     
-- I'm a **Fullstack Developer** with a web design background :woman_artist:
+- I'm a **Fullstack Developer** with 2.5+ years of experience and background in UX and Product Design:woman_artist:
 - :cloud: AWS Certified Cloud Practitioner :rocket: </br>
 - 🖥️ Coding for 2+ years, 1 year of proffesional experience :handshake:
 - :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
