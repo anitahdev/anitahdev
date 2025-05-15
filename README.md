@@ -1,65 +1,107 @@
-<h1>
-    <img src="./res/Hi.gif" height="32" /> 
-    Hi there, I'm Anita and welcome to my github page!
+<h1 align="center">
+  <img src="./res/Hi.gif" height="32" />
+  Hey there! I'm Anita 👋 Welcome to my GitHub!
 </h1>
-    <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet">
-    
-- I'm a **Fullstack Developer** with 2.5+ years of experience and background in UX and Product Design:woman_artist:
-- :cloud: AWS Certified Cloud Practitioner :rocket: </br>
-- 🖥️ Coding for 2+ years, 1 year of proffesional experience :handshake:
-- :woman_technologist: Always eager to learn new tech, currently expanding my Node.js knowledge :heavy_check_mark:	
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anitahdev&style=flat-square&color=blueviolet" alt="GitHub Profile Views">
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 💼 I'm a **Fullstack Developer** with **~3 years of experience**, blending **UX/Product Design** background with robust software development skills.
+- ☁️ **AWS Certified Cloud Practitioner** with hands-on deployment experience on **AWS** and **Google Cloud Platform**.
+- 🤖 Passionate about tech novelties — currently building intelligent tools with LangChain & Claude in my spare time.
+- 🧪 Strong background in **end-to-end testing**, **CI/CD**, and building scalable, component-driven applications.
+
+---
+
+### 🚀 What I'm Currently Exploring
+
+- 🤖 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
+- ⚙️ Enhancing my backend skills with **Node.js**, **Python** and expanding into **DevOps**, **AWS**, and **Docker**
+- 💻 Continuously building fullstack apps with **Typescript** in **React**, **Next.js**, **Node.js**
+
+---
+
+### 💬 Ask Me About
+
+**Next.js**, **AWS**, **Node.js**, **React**, **UX and Product Design**
+
+---
+
+### 💻 Tech Stack
+
+| Category         | Tools & Tech |
+|------------------|--------------|
+| **Frontend**     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
+| **Backend**      | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square) |
+| **Testing**      | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
+| **CMS & Data**   | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) ![GraphCMS](https://img.shields.io/badge/-GraphCMS-222222?logo=graphql&logoColor=white&style=flat-square) |
+| **Design**       | Figma, Adobe XD, Illustrator, After Effects, Photoshop |
+| **Tools**        | Git, Jira, Azure DevOps, ESLint, Prettier |
+
+---
+
+### 📸 Featured Projects
+
+#### 🤖 [AI Research Agent — Claude + LangChain](https://github.com/anitahoroszkoorg/ai-research-agent)
+
+A smart autonomous research tool using **Claude 3.5**, **LangChain**, and real-time web tools to help generate structured insights.
+
+- 🔍 Automatically searches the web (DuckDuckGo) and Wikipedia
+- 💾 Saves research in structured Pydantic format to a `.txt` file
+- 🧠 Uses Anthropic Claude’s LLM via LangChain's agent framework
+- ✨ Modular architecture — easy to extend with new tools
+
+---
+
+#### [Instagram Clone with Next.js](https://github.com/anitahoroszkoorg/instagram-next-clone)
+- ⚛️ Built with **Next.js**, **TypeScript**, **Styled Components**, and **Prisma**
+- 🎯 Smooth **GSAP** animations and full SSR support
+  
+<img src="https://github.com/user-attachments/assets/50f51475-d787-4a70-a672-6188091dc22a" width="400"/>
+
+---
 
 
 
-💬 Ask me about **NextJs, AWS, NodeJS**
+#### [Architech – Platform for Contractors](https://github.com/anitahoroszkoorg/architech)  
+🔗 [Live App](https://architech-362918.lm.r.appspot.com/) | 🎨 [Figma Design](https://www.figma.com/file/DMNwieT1WlqoLA79D4VU6u/Architech?node-id=0%3A1)
 
-:brain: Technologies and libraries that I've worked with:
+📅 Built in 2022 — before my first internship
+- UX-first redesign for complex questionnaires
+- Custom Hooks for autofill and prop-less form state
+- E2E tested with **Cypress**, deployed on **GCP AppEngine**
 
-- Nx
-- AWS
-- Google Cloud Platform
-- Redux Toolkit
-- NextJS
-- Express Js
-- Cypress
-- Ant Design
-- Material UI
-- Formik
-- RestApi
-- Jira, Azure DevOps, Github Actions, Git, Postman
-- GraphCMS (headless cms with GraphQL)
-- Figma, AdobeXD, Adobe: Illustrator, After Effects, Photoshop
+<img src="https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png" width="400"/> <img src="https://user-images.githubusercontent.com/95635795/193865473-bd3074fd-9571-4d73-bb0c-074670bfa687.png" width="400"/>
 
-## 🤝 Connect with me
+---
 
-<a href="mailtoanitahoroszko@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="48px" hspace="6"></a>
+#### [Daft Academy Certificate Project](https://github.com/anitavictoria/daft)
+- 🥇 Top-rated submission during a 5-week course
+- 🧠 Gained hands-on experience with senior frontend code review & best practices
+
+<img src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png" width="350"/>
+<img src="https://user-images.githubusercontent.com/95635795/184085004-26029e29-8502-40d8-b2c9-13690a9fa6f7.jpg" width="300"/>
+
+---
+
+#### [GraphQL Blog](https://github.com/anitavictoria/blog)  
+🔗 [Live Demo](https://graphqlblog1.netlify.app/)
+
+- Built with **GraphCMS** + **GraphQL API**
+- Clean UI to showcase dynamic blog posts
+- Deployed via **Netlify**
+
+<img src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png" width="350"/>
+
+---
+
+### 🤝 Let's Connect
+
+<a href="mailto:anitahoroszko@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="48px" hspace="6"></a>
 <a href="https://www.linkedin.com/in/anita-horoszko-467366182/" target="_blank"><img src="./icons/linkedin.png" alt="LinkedIn" width="48px" hspace="6"></a>
-
-## 💻 Tech stack
-
-- 🔥 Actively developing in <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React.js" height="20px"> & <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js" alt="Next.js" height="20px"> & <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="20px"> 
-- 🧠 Learning <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ASP.net" height="20px"> to expand my backend toolset :wrench:	
-- :cloud: Expanding my Cloud knowledge <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" height="20px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="20px">
-<img src="./res/line-neon.gif" alt="Divider" width="100%"/>
-
-Check out my latest projects here: 
-
-1. [Instagram Clone with Next.js] (https://github.com/anitahoroszkoorg/instagram-next-clone) </br>
-Designed and developed a feature-rich web application inspired by Instagram, building both the frontend and API from scratch. Utilized modern technologies including Next.js, TypeScript, Prisma, and AWS to ensure robust, scalable, and high-performance functionality. The frontend leverages Next.js for server-side rendering, ensuring optimal load times and SEO performance.
-Implemented a custom API with Prisma for efficient database management and seamless data operations, hosted on AWS to ensure reliability and scalability.
-Enhanced user experience with dynamic and engaging animations, developed using GSAP (GreenSock Animation Platform) to create smooth, high-performance transitions and interactions. The user interface is meticulously designed with Styled Components, ensuring maintainable, modular, and responsive styling across all devices. </br>
-![Screen Shot 2025-05-05 at 22 38 54 PM](https://github.com/user-attachments/assets/50f51475-d787-4a70-a672-6188091dc22a)
-
-**Previous Projects created pre-internship in 2022**
-1. [Architech- a platform for contractors](https://github.com/anitahoroszkoorg/architech)</br>
-Link to the deployed app: https://architech-362918.lm.r.appspot.com/ </br>
-Link to the project in Figma: https://www.figma.com/file/DMNwieT1WlqoLA79D4VU6u/Architech?node-id=0%3A1 </br>
-I designed this project by myself in **Figma** while proposing an idea to a company that needed better UX for filling their questonnaire by potential contractors.  I created a more user friendly layout for complicated forms. </br> This project was developed with **React** and **Typescript** and used **Material UI**. </br> One of functionalities I've implemented in my code to make the process easier for the user is a **custom React Hook** that automatically fetches information about the company such as name or address and autofills textfields based on user's one input. </br>To make the questionnaire I've used **Formik** library and **Yup** validation so all textfields are filled correctly. </br> Another custom hook I made to avoid prop drilling which is a common problem with bigger amounts of components is a context hook useForm that passes on properties to components a few levels further. </br>The application communicates with backend (created by a backend developer) written in FastAPI and uses Postgres database. </br>To check for any glitches and make sure the app runs smoothly I wrote end-to-end tests in **Cypress**. </br>The app is deployed on **Google Cloud Platform** with **AppEngine** service. The statics are stored on cloud storage. </br> **CI/CD**(github actions) checks **eslint** and **prettier** and automatically deploys to cloud. </br></br><img width = "400" src="https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png"> <img width = "400" src="https://user-images.githubusercontent.com/95635795/193865473-bd3074fd-9571-4d73-bb0c-074670bfa687.png">
-
-2. [Daft Academy Certificate project](https://github.com/anitavictoria/daft)</br>
-During this course I gained maximum points for creating this app because of it's functonality and optimal code solutions. I've learned best practices from a senior frontend developer and recieved a certificate stating of my skills earned in these 5 weeks. </br> <img width="350" alt="daftrick" src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png">
-<img width = "400" src="https://user-images.githubusercontent.com/95635795/184085004-26029e29-8502-40d8-b2c9-13690a9fa6f7.jpg"> 
-
-3. [GraphQL Blog](https://github.com/anitavictoria/blog)</br>
-This is a blog project created with content housed in **GraphCMS** (a headless CMS) and delivered via **GraphQL API** for seamless display on a blog page. For this purpose I created a **custom React Hook**. I chose a simple, clean design that showcases dynamically changing posts in a chronlogical order. I deployed the app via **Netlify** so it can be viewed under this link: https://graphqlblog1.netlify.app/ </br><img width="350" alt="lab" src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png">
-
