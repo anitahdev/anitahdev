@@ -14,7 +14,7 @@
 - 💼 I'm a **Fullstack Developer** with **~3 years of experience**, blending **UX/Product Design** background with robust software development skills.
 - ☁️ **AWS Certified Cloud Practitioner** with hands-on deployment experience on **AWS** and **Google Cloud Platform**.
 - 🤖 Passionate about tech novelties — currently building intelligent tools with LangChain & Claude in my spare time.
-- 🧪 Strong background in **end-to-end testing**, **CI/CD**, and building scalable, component-driven applications.
+- 🧪 Strong background in **testing**, **CI/CD**, and building scalable, component-driven applications.
 
 ---
 
