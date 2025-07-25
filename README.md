@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./res/Hi.gif" height="32" />
-  Hey there! I'm Anita 👋 Welcome to my GitHub!
+  Hey there! I'm Anita 🙋🏼‍♀️ Welcome to my GitHub!
 </h1>
 
 <p align="center">
@@ -9,20 +9,31 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩🏼‍💻 About Me
 
-- 💼 I'm a **Fullstack Developer** with **~3 years of experience**, blending **UX/Product Design** background with robust software development skills.
-- ☁️ **AWS Certified Cloud Practitioner** with hands-on deployment experience on **AWS** and **Google Cloud Platform**.
-- 🤖 Passionate about tech novelties — currently building intelligent tools with LangChain & Claude in my spare time.
-- 🧪 Strong background in **testing**, **CI/CD**, and building scalable, component-driven applications.
+<p> 💼 &nbsp; I'm a <strong>Fullstack Developer</strong> with ~3 years of experience, blending a <strong>UX/Product Design</strong> foundation with solid software engineering skills.
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="20" height="20" alt="GitHub Icon" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" width="20" height="20" alt="GitHub Actions Icon" />
+  <strong>GitHub Actions Certified</strong> - passionate about automating workflows, CI/CD, and Infrastructure as Code.
+</p>
 
----
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="20" height="20" alt="AWS Icon" />
+  <strong>AWS Certified Cloud Practitioner</strong> with real-world deployment experience on <strong>AWS</strong> and <strong>Google Cloud Platform</strong>.
+</p>
+
+<p>
+  🤖 Tech enthusiast — currently expanding my <strong>DevOps</strong> skills with <strong>Terraform</strong>, <strong>GitHub Actions</strong>, and cloud-native pipelines.
+</p>
+
 
 ### 🚀 What I'm Currently Exploring
 
-- 🤖 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
-- ⚙️ Enhancing my backend skills with **Node.js**, **Python** and expanding into **DevOps**, **AWS**, and **Docker**
-- 💻 Continuously building fullstack apps with **Typescript** in **React**, **Next.js**, **Node.js**
+- 💡 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
+- ⚙️ Enhancing my backend skills with **Node.js**, **Python** and expanding into **DevOps**, **AWS**, **Docker** and **Terraform**
+- 💻 Continuously building fullstack apps with **Typescript** in **React**, **Next.js** and **Node.js**
 
 ---
 
@@ -78,26 +89,6 @@ A smart autonomous research tool using **Claude 3.5**, **LangChain**, and real-t
 - E2E tested with **Cypress**, deployed on **GCP AppEngine**
 
 <img src="https://user-images.githubusercontent.com/95635795/193845856-bec46da0-3ba3-4ec3-b5ce-c3f00d54b439.png" width="400"/> <img src="https://user-images.githubusercontent.com/95635795/193865473-bd3074fd-9571-4d73-bb0c-074670bfa687.png" width="400"/>
-
----
-
-#### [Daft Academy Certificate Project](https://github.com/anitavictoria/daft)
-- 🥇 Top-rated submission during a 5-week course
-- 🧠 Gained hands-on experience with senior frontend code review & best practices
-
-<img src="https://user-images.githubusercontent.com/95635795/183860819-cd43cc98-df16-4bc1-af4b-584646f45613.png" width="350"/>
-<img src="https://user-images.githubusercontent.com/95635795/184085004-26029e29-8502-40d8-b2c9-13690a9fa6f7.jpg" width="300"/>
-
----
-
-#### [GraphQL Blog](https://github.com/anitavictoria/blog)  
-🔗 [Live Demo](https://graphqlblog1.netlify.app/)
-
-- Built with **GraphCMS** + **GraphQL API**
-- Clean UI to showcase dynamic blog posts
-- Deployed via **Netlify**
-
-<img src="https://user-images.githubusercontent.com/95635795/184074617-a7d5775f-339a-4805-8405-4c957362fedf.png" width="350"/>
 
 ---
 
