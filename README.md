@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  🤖 Tech enthusiast — currently expanding my <strong>DevOps</strong> skills with <strong>Terraform</strong>, <strong>GitHub Actions</strong>, and cloud-native pipelines.
+  🤖 Tech enthusiast - currently expanding my <strong>DevOps</strong> skills with <strong>Terraform</strong>, <strong>GitHub Actions</strong>, and cloud-native pipelines.
 </p>
 
 
