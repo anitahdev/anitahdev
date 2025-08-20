@@ -31,9 +31,9 @@
 
 ### 🚀 What I'm Currently Exploring
 
-- 💡 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
 - ⚙️ Enhancing my backend skills with **Node.js**, **Python** and expanding into **DevOps**, **AWS**, **Docker** and **Terraform**
 - 💻 Continuously building fullstack apps with **Typescript** in **React**, **Next.js** and **Node.js**
+- 💡 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
 
 ---
 
