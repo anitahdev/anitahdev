@@ -21,7 +21,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="20" height="20" alt="AWS Icon" />
-  <strong>AWS Certified Cloud Practitioner</strong> with real-world deployment experience on <strong>AWS</strong> and <strong>Google Cloud Platform</strong>.
+  <strong>AWS Certified Solutions Architect - Associate and AWS Certified Cloud Practitioner</strong> with real-world deployment experience on <strong>AWS</strong> and <strong>Google Cloud Platform</strong>.
 </p>
 
 <p>
