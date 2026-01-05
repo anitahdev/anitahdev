@@ -11,7 +11,7 @@
 
 ### 👩🏼‍💻 About Me
 
-<p> 💼 &nbsp; I'm a <strong>Fullstack Developer</strong> with ~3 years of experience, blending a <strong>UX/Product Design</strong> foundation with solid software engineering skills.
+<p> 💼 &nbsp; I'm a <strong>Fullstack Developer</strong> with over 3 years of experience, blending a <strong>UX/Product Design</strong> foundation with solid software engineering skills.
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="20" height="20" alt="GitHub Icon" />
