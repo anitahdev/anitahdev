@@ -16,7 +16,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="20" height="20" alt="GitHub Icon" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" width="20" height="20" alt="GitHub Actions Icon" />
-  <strong>GitHub Actions Certified</strong> - passionate about automating workflows, CI/CD, and Infrastructure as Code.
+  <strong>GitHub Actions Certified</strong> - passionate about automating workflows, CI/CD and Infrastructure as Code.
 </p>
 
 <p>
@@ -33,13 +33,13 @@
 
 - ⚙️ Enhancing my backend skills with **Node.js**, **Python** and expanding into **DevOps**, **AWS**, **Docker** and **Terraform**
 - 💻 Continuously building fullstack apps with **Typescript** in **React**, **Next.js** and **Node.js**
-- 💡 Building **AI research agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
+- 💡 Building **AI agents** using **LangChain**, **Anthropic Claude**, and **custom Python tooling**
 
 ---
 
 ### 💬 Ask Me About
 
-**Next.js**, **AWS**, **Node.js**, **React**, **UX and Product Design**
+**React**, **Next.js**, **AWS**, **Node.js**, **Python**, **UX and Product Design**
 
 ---
 
@@ -48,7 +48,7 @@
 | Category         | Tools & Tech |
 |------------------|--------------|
 | **Frontend**     | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
-| **Backend**      | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
+| **Backend**      | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square) |
 | **Testing**      | ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) |
 | **CMS & Data**   | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) ![GraphCMS](https://img.shields.io/badge/-GraphCMS-222222?logo=graphql&logoColor=white&style=flat-square) |
